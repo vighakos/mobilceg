@@ -1,2 +1,2 @@
 # mobilceg
-# https://vighakos.github.io/mobilceg/
+https://vighakos.github.io/mobilceg/
